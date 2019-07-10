@@ -1,0 +1,48 @@
+
+.my-form{
+  
+    width: 600px;
+    position: fixed;
+    left: 347px;
+    top: 73px;
+    z-index: 3;
+    background-color: gray;
+
+}
+.hide{
+ display: none;
+}
+.my-card{
+  margin: 20px;
+  height: 244px;
+  width: 221px;
+}
+.img-size{
+  height: 60%;
+  width: 100%;
+}
+.mb-3{
+  width: 100%;
+  display: flex;
+}
+.s-stars{
+  float: right;
+  margin-right: 109px;
+  margin-left: 280px;
+  margin-top: 8px;}
+  .oneone{
+color: yellow;
+  }
+  .twotwo{
+    color: yellow;
+  }
+  .threethree{
+    color: yellow;
+  }
+  .fourfour{
+    color: yellow;
+  }
+  .fivefive{
+    color: yellow;
+  }
+ 
